@@ -74,3 +74,14 @@ module.exports = env => {
     ],
   };
 };
+
+
+// "scripts": {
+//     "build:dev": "webpack",
+//     "build:prod": "webpack -p --env production",
+//     "start": "NODE_ENV=production node server",
+//     "node:dev": "nodemon server",
+//     "webpack:dev": "webpack-dev-server",
+//     "test": "jest",
+//     "test:watch": "npm test -- --watch"
+//   },
